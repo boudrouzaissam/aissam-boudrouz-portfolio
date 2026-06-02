@@ -1,6 +1,6 @@
-# aissam-boudrouz-portfolio
-Professional portfolio of data analytics, economic modeling, project management, and business intelligence projects.
 # Aissam Boudrouz – Data Analytics & Economic Modeling Portfolio
+
+Professional portfolio of data analytics, economic modeling, project management, and business intelligence projects.
 
 Welcome to my professional portfolio.  
 I am an economist and data analyst with experience in quantitative analysis, econometric modeling, project coordination, business intelligence, and dashboard development.
@@ -10,7 +10,7 @@ This portfolio presents selected projects combining data analysis, economic inte
 ## Featured Projects
 
 ### 1. Customer Behavior & Marketing Analytics
-Interactive dashboard analyzing customer behavior, segmentation, and marketing performance indicators.
+Interactive dashboard analyzing customer behavior, customer segmentation, and marketing performance indicators.
 
 **Live Demo:**  
 https://customer-behavior-marketing-analytics-idikmhmwqjjtzgkhwslb7x.streamlit.app/
@@ -83,4 +83,7 @@ I combine economic analysis, quantitative methods, and practical dashboard desig
 ## Contact
 
 **Aissam Boudrouz**  
-Economist | Data Analyst | Project Coordinator
+Economist | Data Analyst | Project Coordinator  
+
+**Email:** boudrouzaissam@gmail.com  
+**Phone:** +1 579 348 0892
